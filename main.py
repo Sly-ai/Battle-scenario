@@ -1,5 +1,4 @@
-print("Day 28 Challenge")
-print()
+
 import os, time, random
 
 def health():
