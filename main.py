@@ -1,4 +1,4 @@
-
+print("⚔️ BATTLE SCENARIO ⚔️")
 import os, time, random
 
 def health():
